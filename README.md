@@ -38,9 +38,8 @@
 ### 🐍 Snake Game - Contribuições  
 
 <div align="center">
-  <img src="https://github.com/JulyanaDev/JulyanaDev/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/julyanarch/julyanarch/blob/output/github-contribution-grid-snake.svg"/>
 </div>
-
 
 ---
 
