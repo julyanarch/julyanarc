@@ -37,10 +37,7 @@
 
 
 
-
-![Snake animation](https://github.com/julyanarch/julyanarch/blob/output/github-contribution-grid-snake.svg)
-
-
+ <img src="https://raw.githubusercontent.com/luuizaribass/luuizaribass/output/snake.svg" alt="Snake animation" />
 
 
 ---
